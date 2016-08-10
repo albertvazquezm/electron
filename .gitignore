@@ -18,5 +18,8 @@ node_modules/
 *.xcodeproj
 *.swp
 *.pyc
+*.VC.db
+.vs/
+.vscode/
 debug.log
 npm-debug.log
